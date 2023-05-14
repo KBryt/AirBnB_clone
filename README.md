@@ -171,7 +171,7 @@ The recognizable commands by the interpreter are the following:
 
 In case you missed it - I've documented this entire repository! [Please do check it out!](./documentation)
 
-## Author :black_nib:
+## Authors :black_nib:
 
 - **Bright Effah** - <[KBryt](https://github.com/KBryt)>
 - **Aaron Will Djaba** - <[kurtiz](https://github.com/kurtiz)>
