@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """
+W3C validator for Holberton School
+
 For HTML and CSS files.
 
 Based on 1 API:
