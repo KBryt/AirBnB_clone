@@ -8,7 +8,7 @@ This is the first part of the AirBnB clone project where we worked on the backen
 
 <p align="center">
   <img src="https://github.com/KBryt/AirBnB_clone/blob/main/assets/hbnb-stack.png"
-       alt="Holbertonbnb logo"
+       alt="school logo"
        width="750"
   >
 </p>
